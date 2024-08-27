@@ -1,0 +1,8 @@
+1. потрібно запустити MonoDB 
+mongodb://localhost:27017
+
+2. потрібно запустити node.js
+node server.js
+
+перейти
+http://localhost:3000/
